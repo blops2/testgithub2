@@ -4,6 +4,7 @@
 """
 
 import logging
+import numpy
 
 logging.basicConfig(
     level=logging.DEBUG,
