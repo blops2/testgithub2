@@ -11,7 +11,7 @@ logging.basicConfig(
 #logging.disable(logging.CRITICAL)
 
 
-def Main():
+def main():
     pass
 
 if __name__ == "__main__":
