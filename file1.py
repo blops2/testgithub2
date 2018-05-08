@@ -4,7 +4,7 @@
 """
 
 import logging
-import numpy
+import pandas
 
 logging.basicConfig(
     level=logging.DEBUG,
